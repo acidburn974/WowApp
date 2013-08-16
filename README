@@ -1,0 +1,11 @@
+WowApp
+=========
+
+A world of warcraft memory reader using BlackMagic and Fasmdll.
+Launch World of Warcraft then start the app.
+
+Requirements
+=========
+
+- Visual Studio 2012 (.NET Framework 4.5)
+- Wow 5.3.0.17128
